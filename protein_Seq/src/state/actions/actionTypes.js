@@ -1,0 +1,2 @@
+export const LOAD_TRANSCRIPT = "LOAD_TRANSCRIPT";
+export const LOAD_SEQUENCE = "LOAD_SEQUENCE";
